@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Custom Image Scraper",
+    "version": "1.0",
+    "description": "Scrapes images from web pages",
+    "permissions": ["activeTab", "downloads"],
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "icon.png"
+    }
+  }
